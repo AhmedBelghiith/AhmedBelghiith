@@ -1,3 +1,10 @@
+# Hi there! 👋
+
+### Busy on GitLab 🚀
+
+I'm currently focusing my efforts on some exciting projects over on GitLab. I'll be less active here on GitHub for a while. Feel free to reach out to me there if you need anything in the meantime!
+
+Thank you for your understanding!
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Ahmed#8638) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Ahmeed.Belghiith) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ahmeed_belghiith) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmeed-belghiith) 
